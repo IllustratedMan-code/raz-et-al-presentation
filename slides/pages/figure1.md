@@ -193,9 +193,13 @@ image: figures/figure4.webp
 
 # Class 5 systems speed responses
 
+<v-clicks>
+
 - Class 5 systems have the fastest response time and overshoots
 - Alternative class 5 is 35% slower
 - Class 4 is 75% slower
+
+</v-clicks>
 
 ---
 
@@ -208,3 +212,18 @@ url: /supplemental.pdf
 
 - List in supplement of each system and its classification
 - 5 different subclasses of class 5 systems
+
+---
+
+# Critiques/Comments
+
+<v-clicks>
+
+- Classification methodology could be clearer
+  - How much constraining was done to fit class?
+- No verification of models against real-world data?
+- Maybe too many subclasses of class 5?
+- Models were fairly simple and interpretable
+- Code was available, reproducing all figures
+
+</v-clicks>

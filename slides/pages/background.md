@@ -15,10 +15,14 @@ image: endocrine-systems.svg
 
 # Endocrine systems secrete hormones
 
+<v-clicks>
+
 - Gland cells convert input signals into hormone signals
 - The mass of the glands may be adjusted to meet demand
 - 63 known endocrine systems (e.g melatonin)
 - 43 endocrine systems covered
+
+</v-clicks>
 
 ---
 
