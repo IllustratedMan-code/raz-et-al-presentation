@@ -2,7 +2,7 @@
 # You can also start simply with 'default'
 theme: default
 # some information about your slides (markdown enabled)
-title: Slidev Template
+title: Raz et al.
 fonts:
   sans: Fira Sans
   serif: Fira Sans
@@ -13,15 +13,19 @@ drawings:
   persist: false
 transition: slide-left
 mdc: true
+download: true
 ---
 
-
-# Slidev Template
+<img src="/title.png"/>
 
 ---
 
 ```yaml
-src: ./pages/page1.md
+src: ./pages/background.md
 ```
 
+---
 
+```yaml
+src: ./pages/figure1.md
+```
