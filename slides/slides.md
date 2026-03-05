@@ -13,7 +13,6 @@ drawings:
   persist: false
 transition: slide-left
 mdc: true
-download: true
 ---
 
 <img src="/title.png"/>
