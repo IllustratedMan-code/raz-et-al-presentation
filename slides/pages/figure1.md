@@ -205,7 +205,7 @@ image: figures/figure4.webp
 
 ```yaml
 layout: iframe-left
-url: /supplemental.pdf
+url: ./supplemental.pdf
 ```
 
 # 43/63 sytems classified
